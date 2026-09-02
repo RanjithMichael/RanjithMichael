@@ -39,17 +39,21 @@
 
 ### 2. AI Chatbot
 [Frontend Repo](https://github.com/RanjithMichael/cb-frontend) | [Backend Repo](https://github.com/RanjithMichael/cb-backend) | [Live Demo](https://aicb1.netlify.app/)  
-- 🤖 Natural language conversations powered by Cohere API  
-- 💾 Persistent chat history with MongoDB  
-- 🎨 Responsive UI with TailwindCSS  
+- 🤖 Natural language conversations powered by Cohere API
+- 🏠 Persistent chat history stored per user in MongoDB
+- 🔐 JWT authentication with bcrypt password hashing
+- 👥 Role‑based authorization (Admin vs User access)
+- 🎨 Responsive UI with TailwindCSS
 
 ---
 
 ### 3. Weather Dashboard
 [Frontend Repo](https://github.com/RanjithMichael/wd-frontend) | [Backend Repo](https://github.com/RanjithMichael/wd-backend) | [Live Demo](https://wdashboar.netlify.app/)  
 - 🌦️ Real‑time weather data via OpenWeather API  
-- 📂 Search history persistence  
-- 📊 Responsive dashboard with charts  
+- 📂 Search history tied to logged‑in user accounts 
+- 📊 Responsive dashboard with charts
+- 🔐 JWT authentication with secure login & protected routes
+- 👥 Role‑based authorization (Users see their own history, Admins see all)
 
 ---
 ## 📊 GitHub Stats
