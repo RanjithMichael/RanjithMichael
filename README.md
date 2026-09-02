@@ -22,7 +22,7 @@
 - Resume  
 - Skills  
 - Projects  
-- Certification  
+- Certifications 
 - Contact  
 
 ---
