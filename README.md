@@ -37,7 +37,7 @@
 
 ---
 
-### 2. AI Chatbot
+### 2. AI Chatbot (MERN)
 [Frontend Repo](https://github.com/RanjithMichael/cb-frontend) | [Backend Repo](https://github.com/RanjithMichael/cb-backend) | [Live Demo](https://aicb1.netlify.app/)  
 - 🤖 Natural language conversations powered by Cohere API
 - 🏠 Persistent chat history stored per user in MongoDB
@@ -47,13 +47,13 @@
 
 ---
 
-### 3. Weather Dashboard
-[Frontend Repo](https://github.com/RanjithMichael/wd-frontend) | [Backend Repo](https://github.com/RanjithMichael/wd-backend) | [Live Demo](https://wdashboar.netlify.app/)  
-- 🌦️ Real‑time weather data via OpenWeather API  
-- 📂 Search history tied to logged‑in user accounts 
-- 📊 Responsive dashboard with charts
-- 🔐 JWT authentication with secure login & protected routes
-- 👥 Role‑based authorization (Users see their own history, Admins see all)
+### 3. Car Rental App (MERN)
+[Frontend Repo](https://github.com/RanjithMichael/cra-frontend) | [Backend Repo](https://github.com/RanjithMichael/cra-backend) | [Live Demo](https://crenta.netlify.app/)  
+- 🚘 Cloudinary image upload for car listings with photos, pricing, and availability 
+- 📊 Admin dashboard to manage cars, bookings, and user accounts in real time 
+- 🌟 Popular cars filter & FAQ section for enhanced user experience
+- 🔐 JWT authentication & role‑based access (Admin vs User) for secure login and booking management
+- ⚡ Responsive UI deployed on Netlify with backend hosted on Railway
 
 ---
 ## 📊 GitHub Stats
