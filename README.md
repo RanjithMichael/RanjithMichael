@@ -18,8 +18,7 @@
 ---
 
 ## 📂 Sections
-- About Me  
-- Resume  
+- About Me   
 - TechStack  
 - Projects  
 - Certifications 
