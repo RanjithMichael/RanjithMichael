@@ -20,7 +20,7 @@
 ## 📂 Sections
 - About Me  
 - Resume  
-- Skills  
+- TechStack  
 - Projects  
 - Certifications 
 - Contact  
